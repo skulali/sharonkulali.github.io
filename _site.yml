@@ -6,9 +6,13 @@ navbar:
     - text: "About"
       href: about.html
     - icon: fa-envelope fa-lg
-      href: mailto: sjk2254@cumc.columbia.edu
+      href: mailto:sjk2254@cumc.columbia.edu
     - icon: fa-github fa-lg
       href: http://github.com/skulali
+    - icon: fa-brands fa-linkedin
+      href: https://www.linkedin.com/in/sharon-kulali/
+    - icon: fa-brands fa-orcid
+      href: https://orcid.org/0009-0005-3548-381X
 output:
   html_document:
-    theme: cosmo
+    theme: sandstone
