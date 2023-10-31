@@ -1,0 +1,57 @@
+---
+title: "Dashboard"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: rows
+---
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+library(tidyverse)
+library(plotly)
+library(p8105.datasets)
+
+data("rest_inspec")
+```
+
+{data-width=350}
+-----------------------------------------------------------------------
+
+### Number of Violations per Borough
+
+```{r, echo = F}
+rest_inspec |> 
+  filter(boro != "Missing") |> 
+  count(boro) |>
+  mutate(boro = fct_reorder(boro, n)) |> 
+  plot_ly(x = ~boro, y = ~n, color = ~boro,
+          type = "bar", colors = "viridis")
+```
+
+
+{.tabset}
+-----------------------------------------------------------------------
+
+### Distribution of Inspection Scores per Borough
+
+```{r, echo = F, warning = F}
+rest_inspec |> 
+  filter(boro != "Missing") |>
+  mutate(boro = fct_reorder(boro, score)) |> 
+  plot_ly(y = ~score, color = ~boro, type = "box", colors = "viridis")
+```
+
+### Inspection Date and Score per Borough
+
+```{r, echo = F, warning = F}
+set.seed(12345)
+
+rest_inspec |> 
+  sample_n(1000) |> 
+  select(inspection_date, score, boro) |> 
+  group_by(inspection_date) |> 
+  plot_ly(
+    x = ~inspection_date, y = ~score, color = ~boro,
+    type = "scatter", mode = "markers", colors = "viridis")
+```
+

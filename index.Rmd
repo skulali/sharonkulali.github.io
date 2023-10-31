@@ -1,5 +1,4 @@
 ---
-title: "Sharon Kulali"
 output: 
   html_document:
     toc: true
@@ -14,4 +13,4 @@ output:
 
 ### About me
 
-I am a first-year doctoral student at Columbia University, Mailman School of Public Health studying Environmental Health Sciences. I recently graduated from Purdue University where I studied Biochemistry & Public Health with a minor in Global Studies. During my time at Purdue, I worked on various research projects where I was introduced to the field of environmental health. My current research interests include examining the effects of environmental exposures on vulnerable and minority populations specifically regarding maternal and child health. For more information, visit the [about](about.html) page!
+My name is Sharon Kulali and I am a first-year doctoral student at Columbia University, Mailman School of Public Health studying Environmental Health Sciences. I recently graduated from Purdue University where I studied Biochemistry & Public Health with a minor in Global Studies. During my time at Purdue, I worked on various research projects where I was introduced to the field of environmental health. My current research interests include examining the effects of environmental exposures on vulnerable and minority populations specifically regarding maternal and child health. For more information, visit the [about](about.html) and [research](research.html) pages!

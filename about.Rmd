@@ -1,5 +1,4 @@
 ---
-title: "About"
 output: 
   html_document:
     toc: true
@@ -26,71 +25,6 @@ output:
 * Gained an understanding of the roles and responsibilities of each division within the health department as well as applying acquired class knowledge.
 * Assisted the Fetal Infant Mortality Review team to acquire sponsorships and plan for the second annual Tippecanoe County Health Department Community Baby Shower.
 * Developed health promotion materials for distribution at the health department and on social media platforms.
-
-### Research Experiences
-
-*Undergraduate Research Assistant | Wells Lab | Department of Public Health*
-
-**2022-2023** | Rural Environmental Health Assessment for Hartford City, IN
-
-* Optimized environmental and occupational health data collection process during a community-based research study in Hartford City, IN.
-* Administered questionnaires to participants.
-* Statistically analyzed survey data to examine the self-reported health indicators and concerns in adults from Hartford City.
-
-**2020-2022** | Brownfield and Superfund Sites at the Census Tract Level
-
-* Identified census tract codes, using a Geocoder system, of Brownfield and Superfund sites in Indiana based on previously collected data. 
-* Obtained demographic data from the U.S. Census and performed statistical analysis in correspondence with the census tracts.
-* Analyzed health data from the U.S. Centers for Disease Control and Prevention to examine health outcomes in correlation with the number of sites within a census tract.
-
-**2022** | The Power of Voice in Environmental Justice
-
-* Led a student group in completing an environmental justice video challenge by the Environmental Protection Agency.
-* Organized meetings with community members in Lake County, Indiana to discuss environmental justice issues.
-
-**2020-2021** | Metal Mixtures in East Chicago Residents
-
-* Created brochures to recruit individuals into the study. It included information about the general effects of lead and arsenic exposure as well as details about the study.
-* Assisted at events in Hammond, Indiana to test community members’ water for any lead contamination. Involved collection of water samples and testing it with partnership from other universities. 
-* We aimed to understand the impact of exposure to chemical mixtures among populations experiencing environmental injustices.
-
-**2020** | Mask Use on Campus during COVID-19
-
-* Collected data for the observational, cross-sectional study. Observed individuals at selected locations on campus and noted their mask-wearing behaviors.
-* Provided input on study design and possible explanations for the results observed after data analysis.
-* We concluded that there was a high prevalence of mask use on campus. Additionally, there was a correlation between location characteristics and mask use.      
-
-### Publications
-
-Burnell, K., Robbins, M., **Kulali, S.**, & Wells, E. M. (2021). Prevalence and predictors of mask use on a large US university campus during the COVID-19 pandemic: A brief report. American Journal of Infection Control. https://doi.org/10.1016/j.ajic.2021.11.028
-
-### Conference Presentations
-
-1.	**Kulali S.**, Eyrick R., & Wells EM. (2023). Self-Reported Health Concerns among Adults in Hartford City, Indiana. In Purdue Undergraduate Research Conference. West Lafayette, Indiana.
-2.  **Kulali S.**, & Wells EM. (2022). Examining the Correlation of Brownfield and Superfund Sites with Health Outcomes in Indiana at the Census Tract Level. In Purdue Undergraduate Research Conference. West Lafayette, Indiana.
-3.	**Kulali S.**, & Wells EM. (2022). Ethnic and Socioeconomic Disparities in Residential Proximity to Brownfields or Superfund Sites per Census Tract in Indiana. In Purdue Undergraduate Research Conference. West Lafayette, Indiana.
-4.	**Kulali S.**, & Wells EM. (2022). Ethnic and Socioeconomic Disparities in Residential Proximity to Brownfields or Superfund Sites per Census Tract in Indiana. In The Chicago Local Section of the American Industrial Hygiene Association. Chicago, Illinois. 
-5.	**Kulali S.**, & Wells EM. (2021). Demographic Characteristics Correlated with the Number of Brownfields and Superfund Sites per Census Tract in Indiana. In Purdue Undergraduate Research Conference. West Lafayette, Indiana. 
-6.	**Kulali S.**, & Wells EM. (2021). Demographic Characteristics Correlated with the Number of Brownfields and Superfund Sites per Census Tract in Indiana. In Purdue Center for the Environment, West Lafayette, Indiana.
-7.	**Kulali S.**, & Wells EM. (2021). Examining Demographic Characteristics with the Number of Brownfield and Superfund Sites in Indiana at the Census Tract Level. In Purdue Undergraduate Research Conference. West Lafayette, Indiana. 
-
-### Trainings & Certifications
-
-**2023** | Tippecanoe County Health Department
-
-* *Trainings* : Health Insurance Portability and Accountability Act (HIPAA), Naloxone
-
-**2021** | Purdue University
-
-* *Trainings* : Hazardous Communication, Fume Hood Safety, Radiation Safety, Sealed Radiation Material Training, University Lab Safety Fundamentals, X-ray Safety, X-ray Fluorescent (XRF) Safety
-
-**2021** | Collaborative Institutional Training Initiative Program
-
-* *Courses* : Biosafety/Biosecurity
-
-**2020** | Collaborative Institutional Training Initiative Program
-
-* *Courses* : Human Research, Responsible Conduct of Research, FDA-Regulated Research
 
 ### Study Aways
 
